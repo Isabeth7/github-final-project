@@ -6,6 +6,3 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
-
-Licensing:
-   Contributions are licensed under Apache 2.0.
